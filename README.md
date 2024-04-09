@@ -1,1 +1,3 @@
-# Frequencias-e-Medidas-em-Python
+# Nesse projeto eu aprendi:
+- Ordernar variáveis qualitativas ordinais
+- 
